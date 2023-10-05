@@ -19,6 +19,6 @@ stampaDueRettangoli(test1.areaRettangolo(), test1.perimetroRettangolo(), test2.a
         System.out.println("perimetro secondo rettangolo: " + perimetro2);
         System.out.println("somma aree rettangoli: " + (area2 + area1));
         System.out.println("somma perimetri rettangoli: " + (perimetro2 + perimetro1));
-        System.out.println("somma arre perimetri rettangoli: " + (perimetro2 + perimetro1 + area1 + area2));
+        System.out.println("somma aree perimetri rettangoli: " + (perimetro2 + perimetro1 + area1 + area2));
     }
 }
